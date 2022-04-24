@@ -20,7 +20,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2021 Alvaro Torres Carrasco . All rights reserved.</Slogan>
+          <Slogan>&copy; 2022 Alvaro Torres Carrasco . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/alvarotorresc/">
