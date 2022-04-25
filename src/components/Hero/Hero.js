@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-          Hey there, This is Alvaro Torres Carrasco. I am a Back-end Developer, specialized in Django and NodeJs based in Spain.
+          This is Alvaro Torres Carrasco. I am a Back-end Developer, specialized in Django and NodeJs based in Spain.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
